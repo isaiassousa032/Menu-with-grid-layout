@@ -2,6 +2,6 @@
 
 this stage I learning:
 
-- git iniatialization
+- git initialization
 - git add and commit changes
 - show commits log.
