@@ -1,1 +1,1 @@
-design of a timer using the pomodoro method
+demo of a responsive, animated and grid layoult
